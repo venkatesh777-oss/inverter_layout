@@ -6,6 +6,7 @@ This project demonstrates the complete VLSI digital design flow for a CMOS Inver
 
 This project covers:
 
+
 ✔ Writing Verilog code for an inverter
 
 ✔ Synthesizing RTL into gate-level netlist using Yosys
